@@ -6,7 +6,7 @@ iOSBuddy 1.0
 
 iOSBuddy 1.0 is a Mac utility script designed to help users manage Screen Time settings, disable iCloud sync, reset the local Screen Time passcode, and retrieve lost Apple ID or Wi-Fi passwords. It provides a simple, automated way to regain control over your Mac’s restrictions and credentials.
 
-⚠️ Disclaimer: This tool is for educational purposes only. The author is not responsible for misuse or any policy violations.
+⚠️ Disclaimer: This tool is for educational purposes only. The author is not responsible for misuse or any policy violations. If you want to use the Screen Time Tool, Make sure you have admin access to a mac to run it. If you really want to disable screen time you should ask your family organizer to turn it off.
 
 🎯 Features
 
@@ -16,7 +16,7 @@ iOSBuddy 1.0 is a Mac utility script designed to help users manage Screen Time s
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/iOSBuddy.git
+git clone https://github.com/yourusername/iOSBuddy-1.0.git
 cd iOSBuddy
 
 2️⃣ Install Dependencies
@@ -41,7 +41,7 @@ You will see an ASCII animation followed by the requested action being performed
 
 🛠 Troubleshooting
 
-🔹 Screen Time doesn’t disable?Make sure you have admin access and run the script with sudo:
+🔹 Screen Time doesn’t disable? Make sure you have admin access and run the script with sudo:
 
 sudo python3 iosbuddy.py
 
